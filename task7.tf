@@ -1,3 +1,4 @@
+# Task: Create EC2 Instance Using Terraform
 
 # Generate RSA private key
 resource "tls_private_key" "devops-key" {
